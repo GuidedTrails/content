@@ -1,0 +1,6 @@
+Name = North villa
+Image = north_villa.jpg
+Sound = north_villa.mp3
+Latitude = 37.890351
+Longitude = -122.068674
+Description = A small street that serves as the driveway to the North Villa Apartments in Walnut Creek, California.

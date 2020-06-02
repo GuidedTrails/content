@@ -1,0 +1,6 @@
+Name = Warren
+Image = warren.jpg
+Sound = warren.mp3
+Latitude = 37.891237
+Longitude = -122.071509
+Description = This is the corner of Warren and Dewing.  The historic Dewing house is located here.

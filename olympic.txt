@@ -1,0 +1,6 @@
+Name = Olympic
+Image = olympic.jpg
+Sound = olympic.mp3
+Latitude = 37.892612
+Longitude = -122.068058
+Description = The intersection of Olympic and a freeway onramp.  To the east there is a bridge over a flood control canal, and to the west there is a freeway bridge.

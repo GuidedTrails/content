@@ -1,0 +1,6 @@
+Name = Back Room
+Image = newell.jpg
+Sound = back_room.mp3
+Latitude = 37.891944
+Longitude = -122.073563
+Description = The back room of the house at 105 Baja Ln.  It contains a piano, dog cage, and TV.
