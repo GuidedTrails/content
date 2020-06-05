@@ -1,6 +1,0 @@
-Name = Newell
-Image = newell.jpg
-Sound = newell.mp3
-Latitude = 37.888317
-Longitude = -122.071149
-Description = The T intersection of Newell and Olympic in Walnut Creek California.  It is close to an apartment complex and a swim club.

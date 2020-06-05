@@ -1,6 +1,0 @@
-Name = Parkmead
-Image = parkmead.jpg
-Sound = parkmead.mp3
-Latitude = 37.887513
-Longitude = -122.068441
-Description = Parkmead is an elementary school in Walnut Creek, California.  It shares its ground with a K through 8 school called Tice Creek.

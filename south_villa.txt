@@ -1,6 +1,0 @@
-Name = South villa
-Image = south_villa.jpg
-Sound = south_villa.mp3
-Latitude = 37.889233
-Longitude = -122.069566
-Description = A small street that serves as the driveway to the South Villa Apartments in Walnut Creek, California.

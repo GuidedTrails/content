@@ -1,6 +1,0 @@
-Name = Trail
-Image = trail.jpg
-Sound = trail.mp3
-Latitude = 37.889604
-Longitude = -122.071490
-Description = An access trail to a canal for flood control.  It serves as a community trail for dog walking.
